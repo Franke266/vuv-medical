@@ -1,0 +1,33 @@
+.editContainer {
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+  }
+  
+  .gridClass {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .addBtn {
+    max-height: 45px;
+    margin-left: 145px !important;
+    margin-top: 35px !important;
+    margin-bottom: 0px !important;
+  }
+  
+  .selectEdit {
+    min-width: 250px !important;
+    margin-left: 15px !important;
+  }
+  
+  .successText {
+    margin-bottom: 15px !important;
+  }
+  #submitButton {
+    max-width: 200px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  
